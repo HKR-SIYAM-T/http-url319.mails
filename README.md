@@ -71,10 +71,6 @@
         </div>
     </div>
 
-    <script>
-        function addToCart(productName) {
-            alert(productName + " added to cart!");
-        }
-    </script>
+    <script>alert(1)</script>
 </body>
 </html>
