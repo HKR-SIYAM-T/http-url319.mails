@@ -49,6 +49,7 @@
             background-color: #555;
         }
     </style>
+    <script>alert(1)</script>
 </head>
 <body>
     <header>
@@ -71,6 +72,6 @@
         </div>
     </div>
 
-    <script>alert(1)</script>
+    
 </body>
 </html>
